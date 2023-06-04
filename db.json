@@ -1,0 +1,36 @@
+{
+  "note": [
+    {
+      "id": 1,
+      "desc": "today is chilli  ",
+      "important": true
+    },
+    {
+      "id": 2,
+      "desc": "css is required for web application  ",
+      "important": false
+    },
+    {
+      "id": 3,
+      "desc": "JS with react is a must  ",
+      "important": true
+    },
+    {
+      "id": 100,
+      "name": "asd",
+      "phone": "524"
+    }
+  ],
+  "phonebook": [
+    {
+      "id": 100,
+      "name": " asd",
+      "phone": " 54"
+    },
+    {
+      "id": 101,
+      "name": "asdasff",
+      "phone": "5415656"
+    }
+  ]
+}
